@@ -1,0 +1,6 @@
+.env
+src/__pycache__/__init__.cpython-312.pyc
+src/__pycache__/ai_analyzer.cpython-312.pyc
+src/__pycache__/document_parser.cpython-312.pyc
+src/__pycache__/ppt_generator.cpython-312.pyc
+src/__pycache__/template_manager.cpython-312.pyc
