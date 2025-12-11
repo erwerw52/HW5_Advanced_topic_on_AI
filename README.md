@@ -19,6 +19,8 @@ streamlit run app.py
 
 ### 3. 開始使用
 
+打開瀏覽器並訪問 [https://hw5advancedtopiconai-udrnc3n3rpfejrfopjhelm.streamlit.app/](https://hw5advancedtopiconai-udrnc3n3rpfejrfopjhelm.streamlit.app/)。
+
 1. 📤 上傳你的 .pptx 檔案
 2. 🚀 點擊「開始魔法轉換」
 3. 💾 自動生成兩種風格並下載
